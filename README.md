@@ -1,4 +1,4 @@
-![logo](https://github.com/MuhammadSajid368/MuhammadSajid368/blob/main/Phoenix-Banner-Image.jpg)
+![logo]([https://github.com/MuhammadSajid368/MuhammadSajid368/blob/main/Phoenix-Banner-Image.jpg](https://github.com/MuhammadSajid368/MuhammadSajid368/blob/main/MVM1-1.png))
 
 <h1 align="center">Hi 👋, I'm Muhammad Sajid</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
