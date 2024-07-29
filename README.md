@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on Mern Project **Escrow Finance System**
 
-- 👨‍💻 My portfolio link is [https://sajid-portfolio-3ff3-4t1t5zmys.vercel.app/](https://sajid-portfolio-3ff3-4t1t5zmys.vercel.app/)
-
 - 📫 How to reach me **muhammadsajid936303@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
