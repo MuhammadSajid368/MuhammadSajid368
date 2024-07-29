@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Mern Project **Escrow Finance System**
 
-- 👨‍💻 All of my projects are available at [https://sajid-portfolio-3ff3-4t1t5zmys.vercel.app/](https://sajid-portfolio-3ff3-4t1t5zmys.vercel.app/)
+- 👨‍💻 My portfolio link is [https://sajid-portfolio-3ff3-4t1t5zmys.vercel.app/](https://sajid-portfolio-3ff3-4t1t5zmys.vercel.app/)
 
 - 📫 How to reach me **muhammadsajid936303@gmail.com**
 
@@ -26,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsajid368&show_icons=true&locale=en" alt="muhammadsajid368" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsajid368&" alt="muhammadsajid368" /></p>
+
 
