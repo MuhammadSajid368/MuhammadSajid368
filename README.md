@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Mern Project **Escrow Finance System**
 
-- 📫 How to reach me **muhammadsajid936303@gmail.com**
+- 📫 How to reach me **eng.muhammadsajid@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
 
